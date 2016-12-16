@@ -2,7 +2,7 @@
 
 Here you can find all sorts of graphics for your game development projects or any other project you might find it useful for.
 
-![Image](https://github.com/bjonke/gfx/png/RickardEntertainment.png)
+![RickardEntertainment.png](https://github.com/bjonke/gfx/blob/master/png/RickardEntertainment.png)
 
 ## Welcome to GitHub Pages
 
