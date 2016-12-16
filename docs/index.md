@@ -2,8 +2,7 @@
 
 Here you can find all sorts of graphics for your game development projects or any other project you might find it useful for.
 
-[[ gfx/png/evil.png |alt=RickardEntertainment]]
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/bjonke/gfx/blob/master/png/tilea1grid1.png?raw=true "Logo Title Text 1")
 
 
 ## Welcome to GitHub Pages
