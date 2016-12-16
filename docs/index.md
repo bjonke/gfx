@@ -6,6 +6,7 @@ Here you can find all sorts of graphics for your game development projects or an
 
 ![alt text](https://github.com/bjonke/gfx/blob/master/png/FF64x64Sprites.png?raw=true "Logo Title Text 1")
 
+![alt text](https://github.com/bjonke/gfx/blob/master/jpg/Jagged-Alliance-2-Stracciatella_1.jpg?raw=true "Logo Title Text 1")
 
 ## Welcome to GitHub Pages
 
