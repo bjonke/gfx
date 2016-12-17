@@ -1,5 +1,7 @@
 ## Welcome to gfx
 
+[Coding](coding.md)
+
 Here you can find all sorts of graphics for your game development projects or any other project you might find it useful for.
 
 ![alt text](https://github.com/bjonke/gfx/blob/master/png/tilea1grid1.png?raw=true "Logo Title Text 1")
